@@ -4,8 +4,8 @@
   "description": "Simple Babel Setup",
   "main": "index.js",
   "scripts": {
-    "start": "node_modules/.bin/babel-node imp.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node_modules/.bin/babel-node src/imp.js",
+    "lint": "node_modules/.bin/eslint src/*.js || true"
   },
   "repository": {
     "type": "git",
