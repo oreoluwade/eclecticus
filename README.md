@@ -1,3 +1,11 @@
 [![Build Status](https://travis-ci.org/oreoluwade/transpile.svg?branch=develop)](https://travis-ci.org/oreoluwade/transpile)
-# transpile
-Simple Babel Setup
+# eclecticus
+
+This repository contains a series of configurations and chores designed to aid learning. The list below will keep being populated as time goes on. Check out the closed pull-requests to systematically follow the changes made along the way.
+
+## Tasks
+- eslint configuration
+- babel setup
+- Testing with jest
+- Hound configuration
+- Travis setup
