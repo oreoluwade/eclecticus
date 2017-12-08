@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oreoluwade/transpile.git"
+    "url": "git+https://github.com/oreoluwade/eclecticus.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/oreoluwade/transpile/issues"
+    "url": "https://github.com/oreoluwade/eclecticus/issues"
   },
-  "homepage": "https://github.com/oreoluwade/transpile#readme",
+  "homepage": "https://github.com/oreoluwade/eclecticus#readme",
   "dependencies": {
     "babel-cli": "^6.26.0",
     "babel-jest": "^21.2.0",

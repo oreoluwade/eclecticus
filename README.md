@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/oreoluwade/transpile.svg?branch=develop)](https://travis-ci.org/oreoluwade/transpile)
+[![Build Status](https://travis-ci.org/oreoluwade/eclecticus.svg?branch=develop)](https://travis-ci.org/oreoluwade/eclecticus)
 [![Coverage Status](https://coveralls.io/repos/github/oreoluwade/eclecticus/badge.svg?branch=develop)](https://coveralls.io/github/oreoluwade/eclecticus?branch=develop)
 # eclecticus
 
